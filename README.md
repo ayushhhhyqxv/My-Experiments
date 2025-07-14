@@ -1,2 +1,1 @@
-Looper Work !
-Arranging things for shell adjustments 
+Playing with my interests in this repo ! nothing related to development
