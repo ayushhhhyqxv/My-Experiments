@@ -1,3 +1,0 @@
-SSH connection secured
-
-From both ends it is checked !
